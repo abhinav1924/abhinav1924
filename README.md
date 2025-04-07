@@ -1,5 +1,5 @@
 # 💫 About Me:
- Heyy 👋, I’m **Abhinav Patel**<br><br>A passionate Data & Business Analyst from India.<br><br>- 📊 I work with **real-world datasets** to solve business problems  <br>- 💬 Ask me about **Data Cleaning, Dashboarding, KPIs, SQL Queries, and Data Storytelling**<br>- 📫 How to reach me: work.abhinavpatel@gmail.com<br>- ⚡ Fun Fact: I turn messy datasets into beautiful dashboards — numbers tell great stories if you let them!<br>
+ Heyy 👋, I’m **Abhinav Patel**<br><br>A passionate Data & Business Analyst from India.<br><br>- 📊 I work with **real-world datasets** to solve business problems  <br>- 💬 Ask me about **Data Cleaning, Dashboarding, KPIs, SQL Queries, and Data Storytelling**<br>- 📫 How to reach me:  work.abhinavpatel@gmail.com<br>- ⚡ Fun Fact: I turn messy datasets into beautiful dashboards — numbers tell great stories if you let them!<br>
 
 
 ## 🌐 Socials:
